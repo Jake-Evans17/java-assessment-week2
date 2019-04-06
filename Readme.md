@@ -1,1 +1,1 @@
-# My week 1 Java Assessment
+# My week 2 Java Assessment
